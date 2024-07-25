@@ -90,3 +90,9 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 567px) {
+  h3 {
+    color: rgb(210, 23, 23);
+  }
+}
